@@ -1,3 +1,9 @@
+Description:
+movie-app-react that fetches api for movies from OMDBID:
+when the user types in the search tab for a movie, 10 of available movie names are fetched with their posters 
+then the user gets to choose among of the movies and set them as favorites.
+the user can also remove certain movie from the favourite list
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
